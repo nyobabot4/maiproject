@@ -1,7 +1,7 @@
-var token = "7849305390:AAHsD9O-IhGyLnCJPxOoIg1a_acn5spNOFA"; // GANTI DENGAN TOKEN BOT ANDA
+var token = "5254113240:AAGewVdWkKI0bg2hsSZOuGc11PFj8Kgs2mo"; // GANTI DENGAN TOKEN BOT ANDA
 const tg = new telegram.daftar(token);
 const adminBot = 2109541199; // GANTI dengan ID admin kamu (jika bukan ini)
-const spreadsheetId = "10TupgRfroPas2SjNNY19Q4uB82AYGUVwIIisBxb9Mgg"; // GANTI DENGAN ID SPREADSHEET ANDA
+const spreadsheetId = "10aaT702YpZo7nGrlpX3QB1-9ZZw8NzU_cQVZ13-wj64"; // GANTI DENGAN ID SPREADSHEET ANDA
 const debug = false; // Biarkan false
 
 // --- Fungsi-fungsi Telegram ---
